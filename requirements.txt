@@ -1,5 +1,6 @@
 # Org-Don-Proj
 A code solving the matching delay in an organ transplantation system.
+The code is a PYTHON file, written in VSCode.
 
 This essentially involves taking the factors affecting the organ donation system like medical urgency, compatibilty and geographical proximity and running it on a matching algorithm based on ranked recipients who are given a weighted score. Each factor contains a weight factor approximately accurate to the medical standards followed by doctors and surgeons.
 
